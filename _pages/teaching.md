@@ -7,6 +7,21 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# The London School of Economics  
+## Department of Geography & Environment  
+### Course Convenor  
 
-Organize your courses by years, topics, or universities, however you like!
+- **[The Economic Geography of Trade, Production and Development (2019–2024)](https://www.lse.ac.uk)**  
+  - [Syllabus](https://www.dropbox.com)  
+  - [Students’ evaluations](https://www.dropbox.com)  
+
+- **[Firms and Economic Geography: Location, Technology and Innovation (2019–2022)](https://www.lse.ac.uk)**  
+  - [Syllabus](https://www.dropbox.com)  
+  - [Students’ evaluations](https://www.dropbox.com)  
+
+- **[The Economics of Cities (2021–2022)](https://www.lse.ac.uk)**  
+  - [Syllabus](https://www.dropbox.com)  
+
+- **[Quantitative Methods in Geography (2019–2020)](https://www.lse.ac.uk)**  
+  - [Syllabus](https://www.dropbox.com)  
+
