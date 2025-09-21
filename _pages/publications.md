@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: 
 description:
 nav: true
 nav_order: 2
+hide_title: true
 ---
 
 <div class="publications">
