@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /funding/
-title:
+title: funding
 description:
 nav: true
 nav_order: 3
