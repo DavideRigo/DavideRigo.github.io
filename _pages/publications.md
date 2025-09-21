@@ -15,9 +15,9 @@ hide_title: true
 {% bibliography -f papers %} 
 
 <h2 class="pubyear">working papers</h2>
-{% bibliography -f inprogress %}
+{% bibliography -f workingpapers %}
 
 <h2 class="pubyear">selected work in progress</h2>
-{% bibliography -f other %}
+{% bibliography -f inprogress %}
 
 </div>
