@@ -9,8 +9,8 @@ nav_order: 3
 
 ## Funding
 
-- **Management Practices and Work-from-Home: Evidence from a Multinational Firm** — [LSE Research and Impact Fund](https://info.lse.ac.uk) (2024-2025, GBP 16.5k, PI)
-- **Workshop: ‘The Impact of Work-From-Home: The European Perspective’** — LSE Department of Geography and Environment ([Workshop details](https://www.dropbox.com), [LSE page](https://www.lse.ac.uk)) (2024, GBP 8K, Co-I)
+''Management Practices and Work-from-Home: Evidence from a Multinational Firm'' — [LSE Research and Impact Fund](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-impact-fund) (2024-2025, GBP 16.5k, PI)
+Workshop: The Impact of Work-From-Home: The European Perspective — LSE Department of Geography and Environment ([Workshop details](), [LSE page]() (2024, GBP 8K, Co-I)
 - **The impact of work-from-home and digitalisation on Italian firms and workers** — [VisitINPS program](https://www.inps.it) (2024-2025, access to admin data, Co-I)
 - **Firm and Worker Level Consequences of Digital Investments** — [British Academy Small Research Grant](https://www.thebritishacademy.ac.uk) (2024-2025, GBP 5.2K, PI)
 - **The Impact of Digital Investments on Firms** — [LSE STICERD Small Research Grant](https://sticerd.lse.ac.uk) (2022-2023, GBP 5K, PI)
