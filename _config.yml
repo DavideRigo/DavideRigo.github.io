@@ -301,24 +301,28 @@ filtered_bibtex_keywords:
     additional_info,
     altmetric,
     annotation,
+    annotations,
     arxiv,
     award,
     award_name,
     bibtex_show,
     blog,
     code,
-    google_scholar_id,
+    dataverse,
     html,
-    inspirehep_id,
+    media,
     pdf,
     poster,
     preview,
+    preprint,
+    publisher,
     selected,
     slides,
     supp,
     video,
     website,
   ]
+
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 4 # leave blank to always show all authors
