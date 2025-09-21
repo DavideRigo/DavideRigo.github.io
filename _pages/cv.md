@@ -9,3 +9,9 @@ description:
 toc:
   sidebar: left
 ---
+
+{% if page.cv_pdf contains '://' %}
+  <meta http-equiv="refresh" content="0; url={{ page.cv_pdf }}">
+{% else %}
+  <meta http-equiv="refresh" content="0; url={{ page.cv_pdf | relative_url }}">
+{% endif %}
