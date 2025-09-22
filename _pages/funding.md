@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-- Management Practices and Work-from-Home: Evidence from a Multinational Firm — [LSE Research and Impact Fund](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-impact-fund) (2024-2025, GBP 16.5k, PI)
+- Survey: Remote and Hybrid Work in UK Business What’s Working, What’s Not? — [LSE Research and Impact Fund](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-impact-fund) (2024-2025, GBP 16.5k, PI)
 - Firm and Worker Level Consequences of Digital Investments — [British Academy Small Research Grant](https://www.thebritishacademy.ac.uk/funding/ba-leverhulme-small-research-grants/past-awards/baleverhulme-small-research-grants-awards-2022/) (2024-2025, GBP 5.2K, PI)
 - The impact of work-from-home and digitalisation on Italian firms and workers — [VisitINPS program](https://www.inps.it) (2024-2025, access to admin data, Co-I)
 - Workshop: The Impact of Work-From-Home: The European Perspective — LSE Department of Geography and Environment [Workshop details](https://www.dropbox.com/scl/fi/vmcbxv2h22hzr67qmvo84/Workshop_WorkFromHome_LSE_programme_webpage.pdf?rlkey=z8i746ikahqbb7v1ma88i7xca&e=1&dl=0) (2024, GBP 8K, Co-I)
