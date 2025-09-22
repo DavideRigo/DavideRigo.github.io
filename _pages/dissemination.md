@@ -10,11 +10,11 @@ nav_order: 4
 ## reports
 
 - Multinational Enterprises in Domestic Value Chains (2019) OECD Science, Technology and Industry Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-enterprises-in-domestic-value-chains_9abfa931-en.html)
-- Multinational Enterprises and Global Value Chains: New Insights on the Trade-Investment Nexus (2018) OECD STI Working Papers - [Print](https://www.proquest.com/openview/245df61465810a8516c35a7006739924/1?pq-origsite=gscholar&cbl=54496)
+- Multinational Enterprises and Global Value Chains: New Insights (2018) OECD STI Working Papers - [Print](https://www.proquest.com/openview/245df61465810a8516c35a7006739924/1?pq-origsite=gscholar&cbl=54496)
 - Multinational Production and Trade in Services (2018) OECD Trade Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-production-and-trade-in-services_16ec6b55-en.html)
-- Multinational Enterprises and Global Value Chains: The OECD Analytical AMNE Database (2018) OECD Trade Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-enterprises-and-global-value-chains-the-oecd-analytical-amne-database_d9de288d-en.html)
-- An FDI-driven Approach to Measuring the Scale and Economic Impact of BEPS (2018) UNCTAD Transnational Corporations - [Print](https://unctad.org/system/files/official-document/diae2018d4_en.pdf#page=117)
-- Establishing the Baseline: Estimating the Fiscal Contribution of Multinational Enterprises (2018) UNCTAD Transnational Corporations - [Print](https://unctad.org/system/files/official-document/diaeia2018d5_en.pdf#page=121)
+- Multinational Enterprises and Global Value Chains: The Analytical AMNE Database (2018) OECD Trade Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-enterprises-and-global-value-chains-the-oecd-analytical-amne-database_d9de288d-en.html)
+- An FDI-driven Approach to Measuring Base Erosion and Profits Shifting (2018) UNCTAD TransCorp - [Print](https://unctad.org/system/files/official-document/diae2018d4_en.pdf#page=117)
+- Establishing the Baseline: Estimating the Fiscal Contribution of Multinational Enterprises (2018) UNCTAD TransCorp - [Print](https://unctad.org/system/files/official-document/diaeia2018d5_en.pdf#page=121)
 
 ## blog posts
 
@@ -27,4 +27,4 @@ nav_order: 4
 ## videos
 
 - Presentation at the UK House of Lords' Home-based Working Committee (2025) - [Video](https://parliamentlive.tv/event/index/156a0122-6fe8-4df4-8984-f50b6a069259)
-- Presentation at Stanford Remote Work conference, 'Work From Home & Firm Productivity: The Role of ICT and Size' (2023) [Video](https://www.youtube.com/watch?si=C9mQ4qrZ8wS4nFGO&t=4552&v=mRfvioKAqzg&feature=youtu.be)
+- Presentation at Stanford Remote Work conference (2023) [Video](https://www.youtube.com/watch?si=C9mQ4qrZ8wS4nFGO&t=4552&v=mRfvioKAqzg&feature=youtu.be)
