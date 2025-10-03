@@ -1,6 +1,16 @@
-Since 2022, I have been leading a collaborative research agenda on the impact of digital technologies and work from home (WFH) on European economies. 
+---
+layout: page
+permalink: /digital/
+title: project digital
+description:
+nav: true
+nav_order: 3
+hide_title: true
+---
 
-My research examines how WFH affects distinct but interrelated economic dimensions, including its role in driving productivity and innovation (**Firms**), and in shaping labour markets (**Workers**) and spatial inequalities (**Regions**).
+Since 2022, I have been leading a collaborative research agenda on the impact of digital technologies and remote/hybrid work arrangements on European economies. 
+
+My research examines how digitalisation affects distinct but interrelated economic dimensions, including its role in driving productivity and innovation (**Firms**), and in shaping labour markets (**Workers**) and spatial inequalities (**Regions**).
 
 The goal of this agenda is to provide evidence-based guidance on what works — and what doesn't — when adopting WFH and help identify effective public policy for the digital transition and the diffusion of WFH in advanced economies.
 
