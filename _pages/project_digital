@@ -5,7 +5,6 @@ title: project digital
 description:
 nav: true
 nav_order: 4
-hide_title: true
 ---
 
 Since 2022, I have been leading a collaborative research agenda on the impact of digital technologies and remote/hybrid work arrangements on European economies. My research examines how digitalisation affects distinct but interrelated economic dimensions, including its role in driving productivity and innovation (**Firms**), and in shaping labour markets (**Workers**) and spatial inequalities (**Regions**). This research combines large-scale administrative data, covering the entire population of firms and workers, with unstructured big data sources, such as LinkedIn and job postings, and nationally representative survey data. I use quantitative causal methods and machine learning techniques for text analysis and web-scraping to examine the role of WFH in France, Germany, Italy, UK and across European regions.
