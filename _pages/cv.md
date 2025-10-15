@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 description:
 nav: false
-nav_order: 6
+nav_order: 7
 hide_title: true
 ---
 
