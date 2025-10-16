@@ -3,27 +3,36 @@ layout: page
 permalink: /digital/
 title: project digital
 description:
-nav: false
-nav_order: 
+nav: true
+nav_order: 8
 ---
 
-Since 2020, I have been interested in studying the impact of digital technologies and remote/hybrid work arrangements on European economies. My research examines how digitalisation affects distinct but interrelated economic dimensions, including its role in driving productivity and innovation (**Firms**), and in shaping labour markets (**Workers**) and spatial inequalities (**Regions**). This research combines large-scale administrative data, covering the entire population of firms and workers, with unstructured big data sources, such as LinkedIn and job postings, and nationally representative survey data. I use quantitative causal methods and machine learning techniques for text analysis and web-scraping to examine the role of WFH in France, Germany, Italy, UK and across European regions.
-The goal of this agenda is to provide evidence-based guidance on what works — and what doesn't — when adopting WFH and help identify effective public policy for the digital transition and the diffusion of WFH in advanced economies. This research project offers the following insights:
+Since 2020, I have been interested in studying the impact of digital technologies and remote/hybrid work arrangements on European economies. My research examines how digitalisation affects distinct but interrelated economic dimensions, including its role in driving productivity and innovation (**Firms**), and in shaping labour markets (**Workers**) and spatial inequalities (**Regions**). 
+
+This research combines large-scale administrative data, covering the entire population of firms and workers, with unstructured big data sources, such as LinkedIn and job postings, and nationally representative survey data. I use quantitative causal methods and machine learning techniques for text analysis and web-scraping to examine the role of WFH in France, Germany, Italy, UK and across European regions.
+
+The goal of this agenda is to provide evidence-based guidance on what works — and what doesn't — when adopting WFH and help identify effective public policy for the digital transition and the diffusion of WFH in advanced economies. 
+
+This research project offers the following insights:
 
 ---
 
-Firms 
+## Firms 
 
-- The effects of remote work on firm productivity remain widely debated. My research highlights that, beyond the pandemic, firms successfully integrated WFH into their operations without experiencing productivity losses. This suggests that companies can safely adopt remote work, provided they invest in complementary digital technologies and organisational capital.  
+- The effects of remote work on firm productivity remain widely debated. My research highlights that, beyond the pandemic, firms successfully integrated WFH into their operations without experiencing productivity losses. This suggests that companies can safely adopt remote work, provided they invest in complementary digital technologies and organisational capital.
+  
 - My work also highlights the heterogeneous adoption of WFH, with more digitalised and well-managed firms better positioned to take advantage of it. This implies that the massive shift to WFH induced by the COVID-19 pandemic may have exacerbated existing disparities between larger, more digitalised firms and the rest of the business population.
 
 ---
 
-Workers
-- We still know relatively little about the long-term implications of WFH on labour markets, especially regarding its potential benefits (e.g. reducing labour market frictions) and possible costs (e.g. wage effects, widening disparities).  
+## Workers
+
+- We still know relatively little about the long-term implications of WFH on labour markets, especially regarding its potential benefits (e.g. reducing labour market frictions) and possible costs (e.g. wage effects, widening disparities).
+  
 - My research shows that WFH can enhance labour market inclusion, especially for women who traditionally face work-location constraints and for workers in rural areas.
 
 ---
 
-Regions
+## Regions
+
 - My research highlights that the large shift to WFH induced by the COVID-19 pandemic has exacerbated existing disparities between core, more urban regions and peripheral, more rural ones.
