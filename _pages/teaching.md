@@ -7,8 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-## The London School of Economics  
-### Department of Geography & Environment  
+## London School of Economics  
+### BSc Geography with Economics
+#### Lecturer & Module Lead
 
 - The Economic Geography of Trade, Production and Development (2019–2024) - [Details](https://www.lse.ac.uk/resources/calendar/courseGuides/GY/2025_GY209.htm)
 - Firms and Economic Geography: Location, Technology and Innovation (2019–2022) - [Details](https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/GY/2022_GY313.htm)
