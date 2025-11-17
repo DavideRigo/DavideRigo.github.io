@@ -36,3 +36,9 @@ This research project offers the following insights:
 ## Regions
 
 - My research highlights that the large shift to WFH induced by the COVID-19 pandemic has exacerbated existing disparities between core, more urban regions and peripheral, more rural ones.
+
+---
+
+## Dissemination
+
+- [Workshop](https://www.dropbox.com/scl/fi/vmcbxv2h22hzr67qmvo84/Workshop_WorkFromHome_LSE_programme_webpage.pdf?rlkey=z8i746ikahqbb7v1ma88i7xca&e=1&dl=0), 2024, LSE 
