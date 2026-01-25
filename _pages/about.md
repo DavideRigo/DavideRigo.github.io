@@ -26,7 +26,7 @@ latest_posts:
   
 ---
 
-I am an Assistant Professor at [Birmingham Business School](https://research.birmingham.ac.uk/en/persons/davide-rigo) (Department of Management), a Visiting Fellow at the LSE (Department of Geography and Environment) and a [CESifo Research Network Affiliate](https://www.ifo.de/en/cesifo/network-member/rigo-davide).
+I am an Assistant Professor at [Birmingham Business School](https://research.birmingham.ac.uk/en/persons/davide-rigo) (Department of Management), a Visiting Fellow at [LSE](https://www.lse.ac.uk/geography-and-environment/people/affiliate-and-visiting-staff) (Department of Geography and Environment) and a Research Affiliate of the [CESifo Network](https://www.ifo.de/en/cesifo/network-member/rigo-davide).
 
 I am an applied economist, interested in technological change, innovation and international economics with a focus on the role of firms.
 
