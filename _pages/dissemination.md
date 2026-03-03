@@ -20,6 +20,7 @@ nav_order: 5
 
 ## blog posts
 
+- Winners and losers from remote work: How firm capabilities impact productivity (2026) VoxEU - [Print](https://cepr.org/voxeu/columns/winners-and-losers-remote-work-how-firm-capabilities-impact-productivity)
 - The exaggerated triumph of WFH (2022) LSE Business Review - [Print](https://eprints.lse.ac.uk/117656/1/businessreview_2022_12_7_the_exaggerated_triumph_of_work_from_home_the_workplace_is_not_dead_and_for_most_of_us_is_here_to_stay_1.pdf)
 - Multinational Production and Deep Trade Agreements (2021) VoxEU - [Print](https://cepr.org/voxeu/columns/multinational-production-and-investment-provisions-preferential-trade-agreements)
 - Multinational Enterprises in the Global Economy (2019) VoxEU - [Print](https://cepr.org/voxeu/columns/multinational-enterprises-global-economy-heavily-discussed-hardly-measured)
