@@ -10,6 +10,7 @@ nav_order: 5
 ## reports
 
 - Is working from home working? (2025) UK House of Lords Home-based Working Committee Report - [Print](https://committees.parliament.uk/committee/771/homebased-working-committee/news/210300/working-from-home-could-get-people-back-into-work/)
+- The Rising Concentration of Foreign Direct Investment (2024) World Bank Group Policy Research Working Paper - [Print](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099414106242431322/idu1e54dc5941f94514f8e1ad111ba1e6ee0513d)
 - Multinational Enterprises in Domestic Value Chains (2019) OECD Science, Technology and Industry Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-enterprises-in-domestic-value-chains_9abfa931-en.html)
 - Multinational Enterprises and Global Value Chains: New Insights (2018) OECD STI Working Papers - [Print](https://www.proquest.com/openview/245df61465810a8516c35a7006739924/1?pq-origsite=gscholar&cbl=54496)
 - Multinational Production and Trade in Services (2018) OECD Trade Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-production-and-trade-in-services_16ec6b55-en.html)
