@@ -9,7 +9,7 @@ nav_order: 5
 
 ## policy reports
 
-- Remote work and firm productivity: which UK firms benefit and why? (2026) London School of Economics and Political Science Report - [Print](https://researchonline.lse.ac.uk/id/eprint/137524/)
+- Remote work and firm productivity: which UK firms benefit and why? (2026) LSE Report - [Print](https://researchonline.lse.ac.uk/id/eprint/137524/)
 - Is working from home working? (2025) UK House of Lords Home-based Working Committee Report - [Print](https://committees.parliament.uk/committee/771/homebased-working-committee/news/210300/working-from-home-could-get-people-back-into-work/)
 - The Rising Concentration of Foreign Direct Investment (2024) World Bank Group Policy Research Working Paper - [Print](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099414106242431322/idu1e54dc5941f94514f8e1ad111ba1e6ee0513d)
 - Multinational Enterprises in Domestic Value Chains (2019) OECD Science, Technology and Industry Policy Papers - [Print](https://www.oecd.org/en/publications/multinational-enterprises-in-domestic-value-chains_9abfa931-en.html)
