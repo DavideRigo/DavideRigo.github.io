@@ -30,5 +30,6 @@ nav_order: 5
 
 ## videos
 
+- Public launch of report 'Remote Work and Productivity: Which UK Firms Benefit and Why' (2026) - [Video](https://www.youtube.com/watch?v=QhuseMUPMc8&t=11s)
 - Presentation at the UK House of Lords' Home-based Working Committee (2025) - [Video](https://parliamentlive.tv/event/index/156a0122-6fe8-4df4-8984-f50b6a069259)
 - Presentation at Stanford Remote Work conference (2023) [Video](https://www.youtube.com/watch?si=C9mQ4qrZ8wS4nFGO&t=4552&v=mRfvioKAqzg&feature=youtu.be)
