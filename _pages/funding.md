@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-- Birmingham Business School, Seed Corn Funding, GBP 3k, PI
+- Birmingham Business School, Seed Corn Funding, 2025-2026, GBP 3k, PI
 - British Academy, [Small Research Grant](https://www.thebritishacademy.ac.uk/funding/ba-leverhulme-small-research-grants/past-awards/baleverhulme-small-research-grants-awards-2022/), 2025, GBP 5.2K, PI
 - LSE, [Research and Impact Fund](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-impact-fund), 2025, GBP 16.5k, PI
 - LSE, Department of Geography and Environment, 2024, GBP 8K, Co-I
