@@ -3,7 +3,7 @@ layout: page
 permalink: /digital/
 title: project digital
 description:
-nav: true
+nav: false
 nav_order: 8
 ---
 
