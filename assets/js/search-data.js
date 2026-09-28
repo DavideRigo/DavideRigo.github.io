@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-funding",
-          title: "funding",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/funding/";
-          },
         },{id: "nav-dissemination",
           title: "dissemination",
           description: "",
