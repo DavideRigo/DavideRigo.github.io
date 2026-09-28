@@ -5,6 +5,7 @@ title: funding
 description:
 nav: false
 nav_order: 3
+published: false
 ---
 
 - Birmingham Business School, Seed Corn Funding, 2025-2026, GBP 3k, PI
