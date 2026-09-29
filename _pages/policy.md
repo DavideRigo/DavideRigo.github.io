@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## policy reports
+## reports
 
 - Remote work and firm productivity: which UK firms benefit and why? (2026) LSE Report - [Print](https://researchonline.lse.ac.uk/id/eprint/137524/)
 - Is working from home working? (2025) UK House of Lords Home-based Working Committee Report - [Print](https://committees.parliament.uk/committee/771/homebased-working-committee/news/210300/working-from-home-could-get-people-back-into-work/)
@@ -28,7 +28,7 @@ nav_order: 5
 - Trade in Services and Multinational Production (2018) VoxEU - [Print](https://cepr.org/voxeu/columns/barriers-trade-services-have-impact-multinational-production-manufacturing-sector)
 - The Changing Paradigm of Trade in the 21st Century (2018) Globe, the Graduate Institute Review - [Print](https://www.graduateinstitute.ch/sites/internet/files/2019-06/Globe21_A3_web_1.pdf)
 
-## videos
+## presentations
 
 - Public launch of report 'Remote Work and Productivity: Which UK Firms Benefit and Why' (2026) - [Video](https://www.youtube.com/watch?v=QhuseMUPMc8&t=11s)
 - Presentation at the UK House of Lords' Home-based Working Committee (2025) - [Video](https://parliamentlive.tv/event/index/156a0122-6fe8-4df4-8984-f50b6a069259)
