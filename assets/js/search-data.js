@@ -16,12 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-dissemination",
-          title: "dissemination",
+        },{id: "nav-policy",
+          title: "policy",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/dissemination/";
+            window.location.href = "/policy/";
           },
         },{id: "post-a-post-with-plotly-js",
         
