@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /dissemination/
-title: dissemination
+permalink: /policy/
+title: policy
 description:
 nav: true
 nav_order: 5
